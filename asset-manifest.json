@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/electricity-bill-client/static/css/main.e6c13ad2.css",
+    "main.js": "/electricity-bill-client/static/js/main.310a1150.js",
+    "static/js/453.419a5d54.chunk.js": "/electricity-bill-client/static/js/453.419a5d54.chunk.js",
+    "index.html": "/electricity-bill-client/index.html",
+    "main.e6c13ad2.css.map": "/electricity-bill-client/static/css/main.e6c13ad2.css.map",
+    "main.310a1150.js.map": "/electricity-bill-client/static/js/main.310a1150.js.map",
+    "453.419a5d54.chunk.js.map": "/electricity-bill-client/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.310a1150.js"
+  ]
+}
